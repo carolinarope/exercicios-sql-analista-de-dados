@@ -1,25 +1,24 @@
-Repositório dedicado à prática de SQL, desde consultas básicas até
-relacionamentos e consultas mais complexas.
+# Estudos de SQL
 
-O SQL é estudado como competência complementar ao desenvolvimento backend,
-com foco em manipulação, consulta e organização de dados.
+Repositório de exercícios para praticar consultas SQL e compreender como dados são consultados, filtrados, agrupados e relacionados em bancos de dados relacionais.
 
-## 🧠 Conteúdos
+Atualmente, estudo SQL como uma competência importante para desenvolvimento de software e aplicações backend.
 
-- SELECT
-- WHERE
-- ORDER BY
-- LIMIT
+## Conteúdos praticados
+
+- `SELECT`, `FROM` e `WHERE`
+- Ordenação e limitação de resultados
 - Funções de agregação
-- GROUP BY
-- HAVING
-- INNER JOIN
-- LEFT JOIN
-- Subqueries
+- `GROUP BY` e `HAVING`
+- `INNER JOIN` e `LEFT JOIN`
+- Subconsultas
 - CTEs
 - Window Functions
 
-## 🎯 Objetivo
+## Objetivo
 
-Desenvolver domínio de SQL para trabalhar com dados e bancos relacionais
-em aplicações backend.
+Fortalecer a capacidade de consultar e organizar dados, entender relacionamentos entre tabelas e apoiar a implementação de regras de negócio em aplicações.
+
+## Observação
+
+Este repositório registra exercícios de aprendizagem. A presença de um tópico nesta lista indica conteúdo estudado/praticado, não necessariamente domínio profissional.
